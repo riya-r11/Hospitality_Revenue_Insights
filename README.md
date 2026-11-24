@@ -116,6 +116,6 @@ Provide management with a consolidated view of business performance, reducing re
 
 ## 📸 Dashboard Preview
 
-![Hospitality Revenue Insights Dashboard](Images/dashboard_screenshot.png)
+![Hospitality Revenue Insights Dashboard](Screenshot of Dashboard.png)
 
 
