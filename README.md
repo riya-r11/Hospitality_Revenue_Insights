@@ -116,6 +116,6 @@ Provide management with a consolidated view of business performance, reducing re
 
 ## 📸 Dashboard Preview
 
-![Hospitality Revenue Insights Dashboard](Screenshot of Dashboard.png)
+![Hospitality Revenue Insights Dashboard]([Screenshot of Dashboard.png](https://github.com/riya-r11/Hospitality_Revenue_Insights/blob/main/Screenshot%20of%20Dashboard.png))
 
 
